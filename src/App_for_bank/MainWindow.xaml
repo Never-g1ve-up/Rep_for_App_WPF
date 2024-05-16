@@ -5,7 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:App_for_bank"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Банковское приложение" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Background="LightGray">
     <TabControl>
         <TabItem Header="Добавление">
             <Grid>
@@ -29,7 +31,7 @@
                 </Grid.Resources>
                 <Label Margin="10,0,0,0" Grid.ColumnSpan="2">Контактная информация:</Label>
                 <StackPanel Grid.Row="1" Orientation="Horizontal" Grid.ColumnSpan="2">
-                    <TextBox  HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0" Width="150"></TextBox>
+                    <TextBox  Label="Имя:" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0" Width="150"></TextBox>
                     <TextBox  HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0" Width="150"></TextBox>
                     <TextBox  HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0" Width="150"></TextBox>
                     <TextBox  HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20,0,0,0" Width="150"></TextBox>
