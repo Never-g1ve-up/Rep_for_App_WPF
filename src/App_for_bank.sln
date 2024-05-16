@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_WPF", "App_WPF\App_WPF.csproj", "{3A4D1E9D-8DA7-413B-AA88-7F2101A8B482}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_for_bank", "App_for_bank\App_for_bank.csproj", "{D537DBC3-0AD1-4B21-9A7E-390BB50D9CEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3A4D1E9D-8DA7-413B-AA88-7F2101A8B482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A4D1E9D-8DA7-413B-AA88-7F2101A8B482}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A4D1E9D-8DA7-413B-AA88-7F2101A8B482}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A4D1E9D-8DA7-413B-AA88-7F2101A8B482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D537DBC3-0AD1-4B21-9A7E-390BB50D9CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D537DBC3-0AD1-4B21-9A7E-390BB50D9CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D537DBC3-0AD1-4B21-9A7E-390BB50D9CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D537DBC3-0AD1-4B21-9A7E-390BB50D9CEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FD4EC576-0AC5-4AA4-9337-2D8D61EA0256}
+		SolutionGuid = {752A37A1-21A6-44E8-8EAA-E3EB00148CE7}
 	EndGlobalSection
 EndGlobal
